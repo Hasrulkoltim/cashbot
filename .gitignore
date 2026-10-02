@@ -1,0 +1,28 @@
+# CashBot Dependencies
+node_modules/
+
+# Next.js Build
+.next/
+out/
+
+# Environment
+.env
+.env.local
+.env.production.local
+.env.development.local
+
+# Debug
+npm-debug.log*
+
+# Vercel
+.vercel
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
